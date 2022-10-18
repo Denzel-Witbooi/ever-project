@@ -4,6 +4,5 @@
 
 ---
 **References**:
-* [git-going](https://github.com/cyber-mint/git-going)
-
+* Contributed by : [Denzel Witbooi](https://github.com/Denzel-Witbooi)
 ---
